@@ -1,0 +1,5 @@
+archi_php72_a:
+    - php 7.2
+    - nginx
+    - mysql
+    - symfony 3.4
